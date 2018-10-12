@@ -27,6 +27,9 @@ class MyFavorite extends React.Component{
 
 	render() {
 		let { favorites } = this.props;
+		if(!favorites){
+			favorites = [];
+		}
 		
 		return(
 			<div className="wrap">
