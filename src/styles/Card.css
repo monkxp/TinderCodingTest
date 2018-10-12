@@ -1,0 +1,17 @@
+
+.cardWrap {
+	margin:0 auto;
+	width:400px;
+	height: 400px;
+	text-align: center;
+}
+
+.personName {
+	margin: 15px 0;
+	text-transform: capitalize;
+}
+
+.iconBtn {
+	margin:0 10px;
+	border: 0px;
+}

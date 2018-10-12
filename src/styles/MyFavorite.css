@@ -1,0 +1,13 @@
+
+.wrap {
+	padding: 20px 30px;
+}
+
+.backWrap {
+	margin-bottom: 10px;
+}
+
+.capitalizeName {
+	text-transform: capitalize;
+	margin:0 5px;
+}
